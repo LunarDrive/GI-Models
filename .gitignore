@@ -1,2 +1,9 @@
 # Blender
 *.blend1
+
+# Others
+.DS_Store
+.meta
+
+# Directories
+/[Gg]itignore

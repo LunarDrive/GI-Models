@@ -13,7 +13,6 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - ENABLE_METAL_SPECULAR
-  - ENABLE_RAMP_SHADOW
   - _SHADERENUM_BASE
   m_InvalidKeywords:
   - _ENABLELAMBERT_ON
@@ -93,7 +92,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _RampMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 9f060d190ae9660418023f01aa924bf8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -147,7 +146,7 @@ Material:
     - _EnableLambert: 1
     - _EnableMetalSpecular: 1
     - _EnableOutline: 1
-    - _EnableRampShadow: 1
+    - _EnableRampShadow: 0
     - _EnableRim: 1
     - _EnableRimDS: 1
     - _EnableRimOther: 0

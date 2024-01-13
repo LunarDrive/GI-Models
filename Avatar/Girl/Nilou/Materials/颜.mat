@@ -241,7 +241,7 @@ Material:
     - _RampArea5: {r: -50, g: 3, b: -50, a: 0}
     - _RimColor: {r: 1, g: 1, b: 1, a: 1}
     - _RimColors: {r: 1, g: 1, b: 1, a: 1}
-    - _ShadowColor: {r: 1, g: 0.91886795, b: 0.91886795, a: 1}
+    - _ShadowColor: {r: 1, g: 0.7773585, b: 0.7773585, a: 1}
     - _ShadowMultColor: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
